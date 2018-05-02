@@ -1,5 +1,5 @@
 def valid_move?(board, index)
-  
+
 end# code your #valid_move? method here
 
 
